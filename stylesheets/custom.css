@@ -34,10 +34,10 @@ nav li {
   position: relative;
   left: -30px;
 }
-a {
+nav a {
   text-decoration: none;
   color: #1b1521;
 }
-a:hover {
+nav a:hover {
   text-decoration: underline;
 }
