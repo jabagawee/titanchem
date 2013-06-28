@@ -15,16 +15,29 @@ body {
 .content-image {
   padding: 10px;
 }
-img {
-  max-width: 100%;
+.round {
+  border-radius: 10px;
 }
 nav {
-  margin: 0;
-  padding: 0;
+  margin: 15px;
+  padding: 5px;
   text-align: center;
+  background-color: #e86e1c;
 }
 nav li {
   display: inline;
-  padding: 0;
+  padding: 5px;
   margin: 0;
+}
+.header-image {
+  width: 770px;
+  position: relative;
+  left: -30px;
+}
+a {
+  text-decoration: none;
+  color: #1b1521;
+}
+a:hover {
+  text-decoration: underline;
 }
