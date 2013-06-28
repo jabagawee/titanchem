@@ -1,3 +1,16 @@
+body {
+  background-color: #b5ac01;
+  margin: 0;
+}
+#total {
+  background-color: #ecba09;
+  padding: 0 30px 30px 30px;
+  width: 710px;
+  margin: 0 auto;
+}
+img {
+  max-width: 100%;
+}
 nav {
   margin: 0;
   padding: 0;
